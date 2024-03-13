@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/YtC6q15/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "title": "Sample Title 1",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/m6bSXwQ/profile.jpg",
+    "posted_date": "2024-03-12",
+    "reading_time": "10 minutes",
+    "hashtag": ["technology", "programming", "web-development"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/YtC6q15/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "title": "Sample Title 2",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/m6bSXwQ/profile.jpg",
+    "posted_date": "2024-03-11",
+    "reading_time": "8 minutes",
+    "hashtag": ["science", "research", "data-analysis"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/YtC6q15/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "title": "Sample Title 3",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/m6bSXwQ/profile.jpg",
+    "posted_date": "2024-03-10",
+    "reading_time": "12 minutes",
+    "hashtag": ["art", "creativity", "design"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/YtC6q15/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "title": "Sample Title 4",
+    "author": "Bob Brown",
+    "author_img": "https://i.ibb.co/m6bSXwQ/profile.jpg",
+    "posted_date": "2024-03-09",
+    "reading_time": "15 minutes",
+    "hashtag": ["health", "wellness", "fitness"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/YtC6q15/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "title": "Sample Title 5",
+    "author": "Eva Garcia",
+    "author_img": "https://i.ibb.co/m6bSXwQ/profile.jpg",
+    "posted_date": "2024-03-08",
+    "reading_time": "7 minutes",
+    "hashtag": ["food", "cooking", "recipes"]
+  }
+]

@@ -1,10 +1,17 @@
 import './App.css'
+import Blogs from './Components/Blogs/Blogs'
+import Bookmarks from './Components/Bookmarks/Bookmarks'
+import Header from './Components/Header/Header'
 
 function App() {
 
   return (
     <>
-      <h2 className='text-3xl bg-red-300'>React Knowledge Cafe 2</h2>
+     <Header></Header>
+     <div className='md:flex mx-4 p-4'>
+      <Blogs></Blogs>
+      <Bookmarks></Bookmarks>
+     </div>
     </>
   )
 }
